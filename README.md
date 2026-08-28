@@ -62,7 +62,7 @@ Depois é só abrir o `index.html` no navegador (duplo clique ou arrastar para a
 
 ## 👤 Autor
 
-Desenvolvido por **Henrique** ([@Rickshow13](https://github.com/Rickshow13)), com apoio do Claude (Anthropic) no desenvolvimento e documentação.
+Desenvolvido por **Henrique** ([@Rickshow13](https://github.com/Rickshow13)).
 
 ## 📄 Licença
 
